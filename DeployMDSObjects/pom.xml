@@ -39,7 +39,7 @@
               <target>                
                 <property name="serverURL" value="http://uxlab017:8001" />
                 <property name="user" value="weblogic"/>
-                <property name="password" value="weblogic1" />
+                <property name="password" value="weblogic12" />
                 <property name="sarLocation" value="target/MDSObjects-Deploy.jar" />                
                 <ant antfile="/opt/oracle/middleware/soa/bin/ant-sca-deploy.xml"
                      dir="/opt/oracle/middleware/soa/bin"

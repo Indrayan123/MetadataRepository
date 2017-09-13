@@ -17,11 +17,7 @@
 					<descriptor>zip-assembly-descriptor.xml</descriptor>
 				</descriptors>
 				<filters>
-                    <filter>                        
-                        <excludes>
-                            <exclude>META-INF/**</exclude>
-                        </excludes>
-                    </filter>
+                    <filter>META-INF/**</filter>
                 </filters>
 			</configuration>
 			<executions>
